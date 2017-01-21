@@ -1,5 +1,5 @@
 publishDir = "docs"
-baseurl = "https://example.org"
+baseurl = "https://asancpt.github.io/apps"
 title = "Universal"
 theme = "hugo-universal-theme"
 languageCode = "en-us"
